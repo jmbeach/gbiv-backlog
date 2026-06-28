@@ -10,4 +10,3 @@ version: 1
 - [gbv-d6t] [blocked-by:gbv-3wb] [parent:gbv-q3t] gbiv fleet client CLI (status, get, send)
 - [gbv-k0z] [blocked-by:gbv-d6t] [parent:gbv-q3t] gbiv install-skill + bundled gbiv-orchestrate SKILL.md
 - [gbv-p4n] [in-progress] [by:jared] Need a way to go beyond the 7 named worktrees if necessary. (see ./items/gbv-p4n.md)
-- [gbv-rgs] [in-progress] [by:jared] Get rid of the hook that blocks running of cargo commands
